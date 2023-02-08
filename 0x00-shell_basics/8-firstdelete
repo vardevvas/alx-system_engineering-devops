@@ -1,2 +1,2 @@
 #!/bin/bash
-rm batty
+rm /tmp/my_first_directory/batty

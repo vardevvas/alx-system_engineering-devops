@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir action | cd action
+PATH=$PATH:/action
